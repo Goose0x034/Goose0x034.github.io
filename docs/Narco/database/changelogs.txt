@@ -2,7 +2,11 @@
 * Swapped backend
 + Added More color options
 - Removed clutter
-* Maybe fixed targethud
 + Watermarks 
 + New esp 
++ Array list colors
+* Started work on target hud recode 
+* Fixed via version banning 
++ 1.8.9 Autoblock and criticals
+* Maybe gonna add a new more morden clickgui not rlly 100% needed 
 
