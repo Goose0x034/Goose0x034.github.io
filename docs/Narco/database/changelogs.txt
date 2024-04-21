@@ -1,5 +1,8 @@
 ~ 1.0 (#BETA)
 * Swapped backend
 + Added More color options
-- Removed clutter 
+- Removed clutter
+* Maybe fixed targethud
++ Watermarks 
++ New esp 
 
