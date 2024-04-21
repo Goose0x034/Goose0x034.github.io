@@ -5,8 +5,18 @@
 + Watermarks 
 + New esp 
 + Array list colors
-* Started work on target hud recode 
+- removed old target huds
 * Fixed via version banning 
 + 1.8.9 Autoblock and criticals
-* Maybe gonna add a new more morden clickgui not rlly 100% needed 
-
++ added new targethuds 
+- Removed old clickguis 
+- Removed old rendering system 
+- Removed old arraylist system 
+- Removed old watermark system 
+* Fixed memory issues 
++ New rendering system
++ New array list system
++ New watermark system
+* Improved Render utils drawing 
+~ 1.0 (#PUBLIC)
+* soon
