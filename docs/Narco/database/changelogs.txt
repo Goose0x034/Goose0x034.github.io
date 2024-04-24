@@ -1,4 +1,5 @@
 ~ 1.0 (#BETA)
++ BETA LUA SCRIPTING API
 * Swapped backend
 + Added More color options
 - Removed clutter
