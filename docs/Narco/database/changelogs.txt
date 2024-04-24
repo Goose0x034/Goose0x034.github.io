@@ -18,5 +18,17 @@
 + New array list system
 + New watermark system
 * Improved Render utils drawing 
++ New array font
++ hypixel disabler 
+* Improved hypixel crits
++ Hypixel low hop 10BPS 
+- Old killaura 
+- Old speed module 
++ New better killaura 
++ New better speed system
+* better organised the whole code structure
+* Remade the main class 
++ Hypixel fast ladder 
+* Unpatched hypixel phase 
 ~ 1.0 (#PUBLIC)
 * soon
